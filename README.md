@@ -1,14 +1,5 @@
-# AQS
-## Advanced Quake Sounds ##
-Advanced Quake Sounds For AMX Mod X — https://forums.alliedmods.net/
+# RS
+## Rcon Studio ##
+HL1/ HL2 Rcon Studio — https://hattrick.go.ro/
 
-https://forums.alliedmods.net/showthread.php?t=152034
-
-## Installation ##
-Upload `AQS.ini` to `/addons/amxmodx/configs/`
-
-Upload `AQS.amxx` to `/addons/amxmodx/plugins/`
-
-Upload `AQS` folder to `/sound/`
-
-Type `AQS.amxx` in `/addons/amxmodx/configs/plugins.ini`
+![image](https://user-images.githubusercontent.com/9334579/211121562-11aee3f1-cc1f-4397-aee6-92da761e0b94.png)
