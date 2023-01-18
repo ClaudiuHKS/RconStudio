@@ -191,10 +191,15 @@
                     padding-bottom: 2;
                 }
 
+                form
+                {
+                    margin: 0 auto;
+                }
+
                 img
                 {
-                    width:          16;
-                    height:         16;
+                    width:          24;
+                    height:         24;
                 }
 
                 th
@@ -392,7 +397,7 @@
                                 $Dns,
                                 ((Int)$Inf['Protocol']) == 48 ? "games_goldsrc" : "games_src",
                                 @Mb_Strtolower(Trim($Inf['ModDir'])),
-                                ((Int)$Inf['Protocol']) == 48 ? "gif" : "png",
+                                ((Int)$Inf['Protocol']) == 48 ? "png" : "png",
                                 @Htmlspecialchars(Trim($Inf['HostName'])),
                                 $Map,
                                 (Int)$Plr,
